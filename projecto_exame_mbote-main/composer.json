@@ -1,0 +1,15 @@
+{
+    "name": "lenidas/imobiliaria",
+    "description": "projeccto de exame",
+    "autoload": {
+        "psr-4": {
+            "Lenidas\\Imobiliaria\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "leonidas"
+        }
+    ],
+    "require": {}
+}
